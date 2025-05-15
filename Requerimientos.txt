@@ -1,0 +1,4 @@
+1- Falta centrar imagen
+2- Agregar links
+3- Footer, agregar contenedor con redes sociales
+4- Mejorar estilos
