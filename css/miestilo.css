@@ -26,15 +26,20 @@ header {
 }
 
 /* Encabezado - Imagen logo */
+
+
 img {
-    width: 200px;
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    border: 3px solid #69bd45;
     border-radius: 10px;
 }
 /* Barra de navegacion */
 nav {
     background-color: #4caf50;
     padding: 10px;
-    border-radius: 10px;
 }
 
 nav ul {
@@ -76,4 +81,11 @@ footer {
     max-width: 100%;
     margin: 0 auto;
     text-align: center;
+}
+
+.footer-social {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 5px;
 }
