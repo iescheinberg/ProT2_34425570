@@ -22,7 +22,15 @@ header {
     background-color: #69bd45;
     color: #fff;
     text-align: center;
-    padding: 20px;
+    padding: 10px 0 0 0;
+}
+
+.header-logo {
+    max-width: 200px;
+}
+
+header h1 {
+    padding: 10px;
 }
 
 /* Encabezado - Imagen logo */
